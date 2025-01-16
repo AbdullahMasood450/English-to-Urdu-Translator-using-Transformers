@@ -33,10 +33,13 @@ LSTM: Created redoing the task using LSTM apprach and comapring it with the tran
 
 The evaluation results revealed that the Transformer outperformed the LSTM across multiple metrics. It achieved higher accuracy, lower loss, reduced prediction time, and lower perplexity, highlighting its efficiency and effectiveness for English-to-Urdu translation. These improvements underscore the Transformer’s superior capability in handling complex linguistic structures and delivering faster, more accurate translations compared to the LSTM.
 
-![LSTM Validation and Loss](https://github.com/user-attachments/assets/78b6da56-0bb9-41bd-aa4f-edf95911454b)
-
+### Transformer Validation & Loss Plots
 ![Transformer Validation & Loss Plots](https://github.com/user-attachments/assets/521fc60c-b94f-4ce9-ba20-6d3336fca2b3)
 
+### LSTM Validation & Loss Plots
+![LSTM Validation and Loss](https://github.com/user-attachments/assets/78b6da56-0bb9-41bd-aa4f-edf95911454b)
+
+### Time and Perplexity Comparisions for Transformers and LSTM Models
 ![Time and Perflexity Comparision for Transformer and LSTM Models](https://github.com/user-attachments/assets/64dadd5c-9645-43e7-ab94-6b2fa6ceefcb)
 
 
